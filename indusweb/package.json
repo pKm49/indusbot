@@ -1,0 +1,22 @@
+{
+  "name": "indusbot-engineering",
+  "version": "1.0.0",
+  "description": "ERP and Website of Indusbot Engineering",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "restgull",
+    "api",
+    "erp"
+  ],
+  "author": "Prasanth K M",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "express": "^4.16.4"
+  }
+}
